@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+nav{
+  display: flex;
+  margin: 1.5em 0;
+  width: 100%;
+}
+
+.logo{
+  flex: 1;
+}
+
+.links{
+  flex: 2;
+}
+
+.links a{
+  text-decoration: none;
+}
+
+.middle-link{
+  padding: 0 15%;
+}
+
+
+
+
