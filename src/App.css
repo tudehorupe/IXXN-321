@@ -59,9 +59,35 @@ nav{
 }
 
 .middle-link{
-  padding: 0 15%;
+  margin: 0 15%;
 }
 
+.cardBox {
+  display: flex;
+  justify-content: space-between;
+  margin: 40px 0;
+  width: 70%;
+}
 
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  justify-content: space-evenly;
+  color: #282c34;
+  background-color: white;
+}
 
+.card img{
+  width: 300px;
+  height: auto;
+}
 
+.title {
+  color: #61dafb;
+  font-size: 18px;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}

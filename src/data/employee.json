@@ -4,31 +4,32 @@
       "userImg": "https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "userId": "krish",
       "jobTitle": "Developer",
-      "firstName": "Krish",
+      "firstName": "Danny",
       "lastName": "Lee",
       "employeeCode": "E1",
-      "region": "CA",
+      "region": "Auckland",
       "phoneNumber": "123456",
       "emailAddress": "krish.lee@learningcontainer.com"
     },
     {
-      "userId": "devid",
+      "userImg": "https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "jobTitle": "Developer",
-      "firstName": "Devid",
+      "firstName": "Tom",
       "lastName": "Rome",
       "employeeCode": "E2",
-      "region": "CA",
-      "phoneNumber": "1111111",
+      "region": "Wellington",
+      "phoneNumber": "3795795",
       "emailAddress": "devid.rome@learningcontainer.com"
     },
     {
+      "userImg": "https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "userId": "tin",
       "jobTitle": "Program Directory",
-      "firstName": "tin",
-      "lastName": "jonson",
+      "firstName": "Tim",
+      "lastName": "Jones",
       "employeeCode": "E3",
-      "region": "CA",
-      "phoneNumber": "2222222",
+      "region": "Christchurch",
+      "phoneNumber": "0800 838383",
       "emailAddress": "tin.jonson@learningcontainer.com"
     }
   ]

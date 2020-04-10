@@ -1,6 +1,5 @@
 
-import React from 'react'
-import image from '../assets/contact.jpg';
+import React from 'react';
 
 export default function ContactCard(props) {
     return (
